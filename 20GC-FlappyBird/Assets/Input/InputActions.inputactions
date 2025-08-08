@@ -1,0 +1,34 @@
+{
+    "name": "InputActions",
+    "maps": [
+        {
+            "name": "PlayerControls",
+            "id": "013fc268-f1b9-4287-92aa-378ba1355f2d",
+            "actions": [
+                {
+                    "name": "Force",
+                    "type": "Button",
+                    "id": "5223866f-1a3f-4945-a0d7-53baa1fbebdb",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "78571570-a0bf-4499-852d-16bd8baed432",
+                    "path": "<Keyboard>/space",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Force",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": []
+}
